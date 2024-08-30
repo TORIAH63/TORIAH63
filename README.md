@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @TORIAH63
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-TORIAH63/TORIAH63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi There!
+  My name is Victoria.I am a data analyst who is versed in SQL, EXCEL, POWERBI, TABLEAU and PYTHON. 
+- 👀 I’m interested in getting more ideas and knowlege to upskill my career
+- 🌱 I’m currently working on building my data analytics skills in R, SQL, EXCEL, POWERBI, TABLEAU and PYTHON.
+- 📫 How to reach me ...Connect with me on Linkedin;
+- https://linkedin.com/in/victoria-otojareri-8b6b1424a
+- 😄 Pronouns: ...SHE/HER
